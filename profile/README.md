@@ -1,4 +1,4 @@
-# JuiceOSS | Juice Open Source Software
+# Shelby Laboratory - juice, pine, certus.
 
 ### Quick Source Initialization ###
 ```bash
@@ -13,11 +13,4 @@ git clone https://github.com/Shelby-Lab/device_xiaomi_juice -b twelve device/xia
 - WAIT SOURCES VENDOR TREE
 git clone --depth=1 https://github.com/javashin/Xiaomi-Fury-Bengal-SD662 -b JuiceIcedSnow kernel/xiaomi/juice
 git clone --depth=1 https://github.com/kdrag0n/proton-clang prebuilts/clang/host/linux-x86/clang-proton
-```
-
-### Build instruction ###
-```bash
-source build/envsetup.sh
-lunch <rom>_juice-userdebug
-Command for build
 ```
