@@ -1,5 +1,9 @@
 # Shelby Laboratory - juice, pine, certus.
 
+# JuiceOSS - Juice Open Source Software - soon...
+# CertusOSS - Certus Open Source Software - OSS tree soon...
+# PineOSS - Pine Open Source Software - OPEN.
+
 ### Quick Source Initialization ###
 ```bash
 - Private Android 11 branch [PASS]
