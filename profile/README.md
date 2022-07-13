@@ -16,7 +16,8 @@ git clone https://github.com/Shelby-Lab/android_vendor_xiaomi_juice -b eleven ve
 git clone --depth=1 https://github.com/javashin/Xiaomi-Fury-Bengal-SD662 -b JuiceIcedSnow kernel/xiaomi/juice
 git clone --depth=1 https://github.com/kdrag0n/proton-clang prebuilts/clang/host/linux-x86/clang-proton
 
-- Private Android 12 development branch for members organization [PASS] - bugs: BT
+- Private Android 12 development branch for members organization [?]
+bugs: BT.
 git clone https://github.com/Shelby-Lab/device_xiaomi_juice -b twelve device/xiaomi/juice
 git clone https://github.com/Shelby-Lab/android_vendor_xiaomi_juice -b twelve vendor/xiaomi/juice
 git clone --depth=1 https://github.com/javashin/Xiaomi-Fury-Bengal-SD662 -b JuiceIcedSnow kernel/xiaomi/juice
