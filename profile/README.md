@@ -3,9 +3,16 @@
 ```bash
 Information:
 
-JuiceOSS - Juice Open Source Software - Wait public tree | A11 done | A12 soon... | WIP!
-CertusOSS - Certus Open Source Software - soon... | WIP!
+JuiceOSS - Juice Open Source Software
 PineOSS - Pine Open Source Software - open tree's
+```
+
+### Bugs all tree's ###
+```
+Juice A11 DT - goodix not work in enforcing
+Juice A12 DT - BT, goodix not work in enforcing
+
+Pine A11 DT - n0thing bugs
 ```
 
 ### Quick Source Initialization ###
@@ -16,8 +23,7 @@ git clone https://github.com/Shelby-Lab/android_vendor_xiaomi_juice -b eleven ve
 git clone --depth=1 https://github.com/javashin/Xiaomi-Fury-Bengal-SD662 -b JuiceIcedSnow kernel/xiaomi/juice
 git clone --depth=1 https://github.com/kdrag0n/proton-clang prebuilts/clang/host/linux-x86/clang-proton
 
-- Private Android 12 development branch for members organization [?]
-bugs: BT.
+- Private Android 12 development branch for members organization [BUGGGGGGGGGGGGGGGGGS!]
 git clone https://github.com/Shelby-Lab/device_xiaomi_juice -b twelve device/xiaomi/juice
 git clone https://github.com/Shelby-Lab/android_vendor_xiaomi_juice -b twelve vendor/xiaomi/juice
 git clone --depth=1 https://github.com/javashin/Xiaomi-Fury-Bengal-SD662 -b JuiceIcedSnow kernel/xiaomi/juice
