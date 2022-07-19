@@ -1,10 +1,10 @@
-# Shelby Laboratory - juice, pine, certus[dropped].
+# Shelby Laboratory - juice, pine, certus[dropped], j4primelte
 
 ```bash
 Information:
 
 JuiceOSS - Juice Open Source Software
-PineOSS - Pine Open Source Software - open tree's
+PineOSS - Pine Open Source Software - open trees
 ```
 
 ### Bugs all tree's ###
